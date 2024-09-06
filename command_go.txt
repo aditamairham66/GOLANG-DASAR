@@ -1,0 +1,22 @@
+### INSTALL MODULE GOLANG
+go mod init nama-module
+go mod init golang-dasar
+
+### COMPILE PROJECT 
+go build
+
+### RUNNING COMPILE FILE
+### DI WINDOWS
+nama-module.exe
+golang-dasar.exe
+
+### ATAU
+./nama-module.exe
+./golang-dasar.exe
+
+### DI LINUX
+./nama-module
+./golang-dasar
+
+### RUNNING TANPA COMPILE ATAU BUILD
+go run nama-file.go
