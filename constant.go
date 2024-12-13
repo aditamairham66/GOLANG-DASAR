@@ -4,9 +4,14 @@ import "fmt"
 
 func main() {
 	const (
-		name  string = "Aditama"
-		name2        = "Irham"
+		firstName string = "Eko"
+		lastName         = "Khannedy"
 	)
 
-	fmt.Println(name, name2)
+	fmt.Println(firstName)
+	fmt.Println(lastName)
+
+	// error
+	// firstName = "Budi"
+	// lastName = "Joko"
 }

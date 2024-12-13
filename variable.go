@@ -3,24 +3,19 @@ package main
 import "fmt"
 
 func main() {
-	var name string
-
-	name = "Aditama Irham"
+	name := "Eko Kurniawan"
 	fmt.Println(name)
 
-	var name1 = "Lucky"
-	fmt.Println(name1)
-
-	name2 := "Diklarasi pertama"
-	fmt.Println(name2)
-
-	name2 = "ubah nilai kedua"
-	fmt.Println(name2)
+	name = "Eko Khannedy"
+	fmt.Println(name)
 
 	var (
-		firstName = "Test"
-		lastName  = "Middle"
+		firstName  = "Eko"
+		middleName = "Kurniawan"
+		lastName   = "Khannedy"
 	)
 
-	fmt.Println(firstName, lastName)
+	fmt.Println(firstName)
+	fmt.Println(middleName)
+	fmt.Println(lastName)
 }

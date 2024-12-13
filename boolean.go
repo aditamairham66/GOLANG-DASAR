@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("benar ", true)
-	fmt.Println("salah ", false)
+	fmt.Println("Benar = ", true)
+	fmt.Println("Salah = ", false)
 }

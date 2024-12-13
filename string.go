@@ -3,9 +3,11 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Aditama Irham")
+	fmt.Println("Eko")
+	fmt.Println("Eko Kurniawan")
+	fmt.Println("Eko Kurniawan Khannedy")
 
-	fmt.Println(len("Aditama Irham"))
-	fmt.Println("Aditama Irham"[0])
-	fmt.Println("Aditama Irham"[1])
+	fmt.Println(len("Eko"))
+	fmt.Println("Eko Kurniawan"[0])
+	fmt.Println("Eko Kurniawan Khannedy"[1])
 }

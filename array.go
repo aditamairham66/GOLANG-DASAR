@@ -19,7 +19,6 @@ func main() {
 		95,
 		100,
 		110,
-		110,
 	}
 
 	fmt.Println(values)
